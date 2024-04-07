@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá, Mundo! 👋
 
-<!--
-**LuanGuarnieri/LuanGuarnieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luan L. Guarnieri, sou desenvolvedor e sou apaixonado em tecnologia!😎
 
-Here are some ideas to get you started:
+## 🌱 Atualmente Estou Aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+
+## 👩‍💻 Tecnologias e Ferramentas
+
+- Java
+- JavaScript
+- Spring
+- Angular
+
+## 📫 Como Me Encontrar
+
+- LinkedIn: [LuanGuarnieri]([link](https://www.linkedin.com/in/luanguarnieri/))
+- Site Pessoal: em construção
+- Email: ...
+
+## 😄 Curiosidades
+
+- Gosto de aprender
+- Acho interessante de como as coisas funcionam
+- Passo raiva fazendo, mas adoro ver o resultado final😅
