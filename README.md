@@ -5,6 +5,7 @@
 ## Técnologias utilizadas no dia a dia
 <div style="display: inline-block;">
   <img style="cursor: none" align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+   <img style="cursor: none" align="center" alt="Groovy" src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=Groovy&logoColor=white"/>
   <img style="cursor: none" align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img style="cursor: none" align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img style="cursor: none" align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
